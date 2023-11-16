@@ -1,5 +1,13 @@
 ### [과제] 숙련주차 과제 답
 
+### github link
+
+https://github.com/nkcfe/test2.git
+
+### vercel link
+
+https://test2-tau-amber.vercel.app/
+
 ## Q1. 추가하기 버튼을 클릭해도 추가한 아이템이 화면에 표시되지 않음.
 
 Form.jsx에서 onSubmitHandler 호출 시 dispatch함수가 작성이 되어있지않았습니다.
